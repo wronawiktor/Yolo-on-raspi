@@ -46,14 +46,23 @@
 ## About The Project
 
 <div style="display: flex; justify-content: space-around">
-    <img src="doc_img/face-demo.png" alt="Face Demo" style="width: 40%">
-    <img src="doc_img/raspi.png" alt="Raspberry Pi" style="width: 40%">
+
+  <img src="doc_img/face-demo.png" alt="Face Demo" style="width: 40%">
+  <img src="doc_img/raspi.png" alt="Raspberry Pi" style="width: 40%">
+
 </div>
 
 
 <br>
 
-<iframe width="560" height="315" src="https://youtu.be/TqtyKohOvTY" frameborder="0" allowfullscreen></iframe>
+Check out how it works on YT:
+
+<div align="center">
+
+  [<img src="https://img.youtube.com/vi/TqtyKohOvTY/hqdefault.jpg" width="600" height="300"
+  />](https://www.youtube.com/embed/TqtyKohOvTY)
+
+</div>
 
 ### Built With
 
