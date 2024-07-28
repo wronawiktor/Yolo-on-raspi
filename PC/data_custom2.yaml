@@ -1,0 +1,6 @@
+train: D:\!Programy\Inzynierka\trzeci_trening\datasets\train
+val: D:\!Programy\Inzynierka\trzeci_trening\datasets\val
+
+nc: 1
+
+names: ['face']
