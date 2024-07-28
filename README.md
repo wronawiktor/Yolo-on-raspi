@@ -1,12 +1,12 @@
 <a id="readme-top"></a>
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">YoloV8 on Raspberry</h3>
+  <h3 align="center">YoloV8 on Raspberry</h3>
 
   <p align="center">
     Run custom pretrained model of Yolo on your Raspberry Pi!
@@ -52,7 +52,8 @@
 
 
 <br>
-[![YT](doc_img/yt-thumb.jpg)]([yt-url])
+
+<iframe width="560" height="315" src="https://youtu.be/TqtyKohOvTY" frameborder="0" allowfullscreen></iframe>
 
 ### Built With
 
@@ -309,6 +310,5 @@ Wiktor Wrona - wronawiktorit@gmail.com
 [yolo-docs]: https://docs.ultralytics.com/
 [dataset-url]: https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/dataset/7
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[yt-url]: https://youtu.be/TqtyKohOvTY
 [labelImg]: https://pypi.org/project/labelImg/
 [iou]: https://pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
